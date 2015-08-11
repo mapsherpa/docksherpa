@@ -2,8 +2,7 @@
 #          Node.js Image for OFSC                #
 ##################################################
 
-#FROM buildpack-deps:jessie
-FROM ubuntu_base_build:1.0
+FROM mapsherpa/ubuntu-build
 
 
 # verify gpg and sha256: http://nodejs.org/dist/v0.10.31/SHASUMS256.txt.asc
