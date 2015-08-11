@@ -1,5 +1,5 @@
 ##################################################
-#          Node.js Image for OFSC                #
+#       Base Node.js Image for Mapsherpa         #
 ##################################################
 
 FROM mapsherpa/ubuntu-build
